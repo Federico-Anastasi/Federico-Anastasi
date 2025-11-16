@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @Federico-Anastasi, I studied Engineering Physics and Theoretical Physics in Milan, Italy.
-- 👀 I’m interested in advanced technologies and new ideas.
-- 🌱 I’m currently learning several programming languages: Python, C, JavaScript and Solidity.
-- 📫 How to reach me: federico_anastasi@outlook.com
+👋 Hi, I'm @Federico-Anastasi
 
-Here you can find some programs I wrote to learn and enjoy.
+🎓 Engineering Physics & Theoretical Physics @ Milan, Italy  
+💻 Fullstack Developer (Python, TypeScript, Solidity)  
+🚀 Turning equations into code
+📫 federico_anastasi@outlook.com | [@FedeAnastasi](https://x.com/FedeAnastasi)
 
-<!---
-Federico-Anastasi/Federico-Anastasi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Here you can find programs I wrote to learn and build.
