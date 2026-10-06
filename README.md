@@ -1,6 +1,5 @@
-👋 Hi, I'm @Federico-Anastasi
+Hi, I'm Federico. I studied physics and I build software.
 
-🎓 Engineering Physics & Theoretical Physics @ Milan, Italy  
-💻 Fullstack Developer (Python, TypeScript, Solidity)
-🚀 Turning equations into code  
-📫 federico_anastasi@outlook.com | [@FedeAnastasi](https://x.com/FedeAnastasi)
+I'm obsessed with understanding how complex systems really work, all the way down. Every answer opens a deeper level and raises new questions, so I keep going.
+
+I talk about it on [TikTok](https://www.tiktok.com/@federico_anastasi) and [X](https://x.com/FedeAnastasi).
