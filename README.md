@@ -1,4 +1,4 @@
-Hi, I'm Federico. I studied physics and I build software.
+Hi, I'm Federico. I studied physics and I write code.
 
 I'm obsessed with understanding how complex systems really work, all the way down. Every answer opens a deeper level and raises new questions, so I keep going.
 
